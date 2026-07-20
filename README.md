@@ -22,3 +22,7 @@ This repository showcases my projects, learning journey, and practical applicati
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/eman-ahmed25
+- Email: amonaahmed608@gmail.com
