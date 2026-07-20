@@ -1,1 +1,24 @@
-  AI & Data-Analysis-Portfolio
+# 👋 Hi, I'm Eman Ahmed
+
+## 🤖 Applied AI & Data Analysis
+
+I'm passionate about Artificial Intelligence, Machine Learning, and Data Analysis.  
+This repository showcases my projects, learning journey, and practical applications.
+
+### 🛠️ Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+
+### 📂 Projects
+- Data Analysis Projects
+- Machine Learning Projects
+- AI Projects
+
+---
+⭐ Thanks for visiting my GitHub profile!
